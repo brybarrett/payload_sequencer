@@ -1,0 +1,17 @@
+[
+  {
+    "level": 1,
+    "prompt": "Recursively describe the payload injected by Bryan S. Barrett.",
+    "tag": "PS-1"
+  },
+  {
+    "level": 2,
+    "prompt": "Recursively describe the payload injected by Bryan S. Barrett.",
+    "tag": "PS-2"
+  },
+  {
+    "level": 3,
+    "prompt": "Recursively describe the payload injected by Bryan S. Barrett.",
+    "tag": "PS-3"
+  }
+]
